@@ -193,3 +193,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/batch,python,windows,notepadpp,virtualenv,powershell,visualstudiocode
+
+!/mightex_lib/**/*.dll
+!mightex_lib/*
